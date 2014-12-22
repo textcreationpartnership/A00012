@@ -36,37 +36,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-IOSEPH, OR, PHAROAH'S FAVOVRITE.ECCLES. 39.1, 4.Hee only that applyeth his minde to the Law of the m
-1. To the right honourable and reuerend Father in God, Iohn Lord Bishop of Lincolne, Lord Keeper of the Great Seale.
-
+Ioseph, or, Pharoah's fauouriteJoseph.Aylett, Robert, 1583-1655?1623Approx. 175 KB of XML-encoded te
 #####Body#####
 
-1. THE FIRST BOOKE OF IOSEPH.
-
-    _ Iacobs last blessing.
-
-1. THE SECOND BOOKE OF IOSEPH.
-
-    _ Iacobs last blessing.
-
-1. THE THIRD BOOKE OF IOSEPH.
-
-    _ Iacobs last blessing.
-
-1. THE FOVRTH BOOKE OF IOSEPH.
-
-    _ Iacobs last blessing.
-
-1. THE FIFTH BOOKE OF IOSEPH.
-
-    _ Iacobs last blessing.
-
-1. IOSEPHS Epitaph.
-
-    _ Iacobs last blessing.
-
 #####Back#####
-SVSANNA was of all thy Poems best,But IOSEPH her excels, as shee the rest.
+Ioseph, or, Pharoah's fauouriteJoseph.Aylett, Robert, 1583-1655?1623Approx. 175 KB of XML-encoded te
 **Types of content**
 
   * There are 3073 **verse** lines!
@@ -99,32 +73,28 @@ There are 1 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
@@ -133,24 +103,21 @@ There are 1 **ommitted** fragments!
 |---|---|---|---|
 |1.|__am__|1||
 |2.|__argument__|1||
-|3.|__back__|1||
-|4.|__bibl__|1||
-|5.|__body__|1||
-|6.|__closer__|1||
-|7.|__desc__|1||
-|8.|__div__|10| @__type__ (10) : title_page (1), dedication (1), book (5), blessing (1), epitaph (1), encomium (1)  •  @__n__ (5) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1)|
-|9.|__ex__|1||
-|10.|__expan__|1||
-|11.|__front__|1||
-|12.|__g__|65| @__ref__ (65) : char:EOLhyphen (33), char:cmbAbbrStroke (5), char:punc (26), char:abque (1)|
-|13.|__gap__|1| @__reason__ (1) : illegible: over-inked (1)  •  @__extent__ (1) : 1 letter (1)|
-|14.|__head__|8||
-|15.|__hi__|1821||
-|16.|__l__|3073||
-|17.|__lg__|3||
-|18.|__note__|28| @__place__ (28) : margin (28)  •  @__n__ (21) : a (1), b (1), c (1), d (1), e (1), f (1), g (1), h (1), i (1), 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1)|
-|19.|__p__|3||
-|20.|__pb__|99| @__facs__ (99) : tcp:19269:1 (1), tcp:19269:2 (2), tcp:19269:3 (2), tcp:19269:4 (2), tcp:19269:5 (2), tcp:19269:6 (2), tcp:19269:7 (2), tcp:19269:8 (2), tcp:19269:9 (2), tcp:19269:10 (2), tcp:19269:11 (2), tcp:19269:12 (2), tcp:19269:13 (2), tcp:19269:14 (2), tcp:19269:15 (2), tcp:19269:16 (2), tcp:19269:17 (2), tcp:19269:18 (2), tcp:19269:19 (2), tcp:19269:20 (2), tcp:19269:21 (2), tcp:19269:22 (2), tcp:19269:23 (2), tcp:19269:24 (2), tcp:19269:25 (2), tcp:19269:26 (2), tcp:19269:27 (2), tcp:19269:28 (2), tcp:19269:29 (2), tcp:19269:30 (2), tcp:19269:31 (2), tcp:19269:32 (2), tcp:19269:33 (2), tcp:19269:34 (2), tcp:19269:35 (2), tcp:19269:36 (2), tcp:19269:37 (2), tcp:19269:38 (2), tcp:19269:39 (2), tcp:19269:40 (2), tcp:19269:41 (2), tcp:19269:42 (2), tcp:19269:43 (2), tcp:19269:44 (2), tcp:19269:45 (2), tcp:19269:46 (2), tcp:19269:47 (2), tcp:19269:48 (2), tcp:19269:49 (2), tcp:19269:50 (2)  •  @__rendition__ (4) : simple:additions (4)  •  @__n__ (92) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1)|
-|21.|__q__|1||
-|22.|__signed__|1||
-|23.|__trailer__|4||
+|3.|__bibl__|1||
+|4.|__closer__|1||
+|5.|__desc__|1||
+|6.|__div__|10| @__type__ (10) : title_page (1), dedication (1), book (5), blessing (1), epitaph (1), encomium (1)  •  @__n__ (5) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1)|
+|7.|__ex__|1||
+|8.|__expan__|1||
+|9.|__g__|65| @__ref__ (65) : char:EOLhyphen (33), char:cmbAbbrStroke (5), char:punc (26), char:abque (1)|
+|10.|__gap__|1| @__reason__ (1) : illegible: over-inked (1)  •  @__extent__ (1) : 1 letter (1)|
+|11.|__head__|8||
+|12.|__hi__|1821||
+|13.|__l__|3073||
+|14.|__lg__|3||
+|15.|__note__|28| @__place__ (28) : margin (28)  •  @__n__ (21) : a (1), b (1), c (1), d (1), e (1), f (1), g (1), h (1), i (1), 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1)|
+|16.|__p__|3||
+|17.|__pb__|99| @__facs__ (99) : tcp:19269:1 (1), tcp:19269:2 (2), tcp:19269:3 (2), tcp:19269:4 (2), tcp:19269:5 (2), tcp:19269:6 (2), tcp:19269:7 (2), tcp:19269:8 (2), tcp:19269:9 (2), tcp:19269:10 (2), tcp:19269:11 (2), tcp:19269:12 (2), tcp:19269:13 (2), tcp:19269:14 (2), tcp:19269:15 (2), tcp:19269:16 (2), tcp:19269:17 (2), tcp:19269:18 (2), tcp:19269:19 (2), tcp:19269:20 (2), tcp:19269:21 (2), tcp:19269:22 (2), tcp:19269:23 (2), tcp:19269:24 (2), tcp:19269:25 (2), tcp:19269:26 (2), tcp:19269:27 (2), tcp:19269:28 (2), tcp:19269:29 (2), tcp:19269:30 (2), tcp:19269:31 (2), tcp:19269:32 (2), tcp:19269:33 (2), tcp:19269:34 (2), tcp:19269:35 (2), tcp:19269:36 (2), tcp:19269:37 (2), tcp:19269:38 (2), tcp:19269:39 (2), tcp:19269:40 (2), tcp:19269:41 (2), tcp:19269:42 (2), tcp:19269:43 (2), tcp:19269:44 (2), tcp:19269:45 (2), tcp:19269:46 (2), tcp:19269:47 (2), tcp:19269:48 (2), tcp:19269:49 (2), tcp:19269:50 (2)  •  @__rendition__ (4) : simple:additions (4)  •  @__n__ (92) : 1 (1), 2 (1), 3 (1), 4 (1), 5 (1), 6 (1), 7 (1), 8 (1), 9 (1), 10 (1), 11 (1), 12 (1), 13 (1), 14 (1), 15 (1), 16 (1), 17 (1), 18 (1), 19 (1), 20 (1), 21 (1), 22 (1), 23 (1), 24 (1), 25 (1), 26 (1), 27 (1), 28 (1), 29 (1), 30 (1), 31 (1), 32 (1), 33 (1), 34 (1), 35 (1), 36 (1), 37 (1), 38 (1), 39 (1), 40 (1), 41 (1), 42 (1), 43 (1), 44 (1), 45 (1), 46 (1), 47 (1), 48 (1), 49 (1), 50 (1), 52 (1), 53 (1), 54 (1), 55 (1), 56 (1), 57 (1), 58 (1), 59 (1), 60 (1), 61 (1), 62 (1), 63 (1), 64 (1), 65 (1), 66 (1), 67 (1), 68 (1), 69 (1), 70 (1), 71 (1), 72 (1), 73 (1), 74 (1), 75 (1), 76 (1), 77 (1), 78 (1), 79 (1), 80 (1), 81 (1), 82 (1), 83 (1), 84 (1), 85 (1), 86 (1), 87 (1), 88 (1), 89 (1), 90 (1), 91 (1), 92 (1), 93 (1)|
+|18.|__q__|1||
+|19.|__signed__|1||
+|20.|__trailer__|4||
