@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-IOSEPH, OR, PHAROAH'S FAVOVRITE.ECCLES. 39.1, 4.Hee only that applyeth his minde to the Law of the m
+
 1. To the right honourable and reuerend Father in God, Iohn Lord Bishop of Lincolne, Lord Keeper of the Great Seale.
 
 #####Body#####
