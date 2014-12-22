@@ -36,11 +36,27 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Ioseph, or, Pharoah's fauouriteJoseph.Aylett, Robert, 1583-1655?1623Approx. 175 KB of XML-encoded te
+IOSEPH, OR, PHAROAH'S FAVOVRITE.ECCLES. 39.1, 4.Hee only that applyeth his minde to the Law of the m
+1. To the right honourable and reuerend Father in God, Iohn Lord Bishop of Lincolne, Lord Keeper of the Great Seale.
+
 #####Body#####
 
+1. THE FIRST BOOKE OF IOSEPH.
+
+1. THE SECOND BOOKE OF IOSEPH.
+
+1. THE THIRD BOOKE OF IOSEPH.
+
+1. THE FOVRTH BOOKE OF IOSEPH.
+
+1. THE FIFTH BOOKE OF IOSEPH.
+
+    _ Iacobs last blessing.
+
+1. IOSEPHS Epitaph.
+
 #####Back#####
-Ioseph, or, Pharoah's fauouriteJoseph.Aylett, Robert, 1583-1655?1623Approx. 175 KB of XML-encoded te
+SVSANNA was of all thy Poems best,But IOSEPH her excels, as shee the rest.
 **Types of content**
 
   * There are 3073 **verse** lines!
